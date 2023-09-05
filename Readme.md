@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">A passionate Computer Science Grad from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif?format=1000w">
+<img align="right" alt="Coding" width="400" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Nivaas Website.<br>👯 I’m looking to collaborate on backend projects.<br>🤝 I’m looking for help with bug fixing and backend development.<br>🌱 I’m currently learning full stack in depth.<br>💬 Ask me about Web Development and Cyber Security.<br>⚡ Fun fact My reviews on Google Maps have accumulated a staggering 2.3L views.
