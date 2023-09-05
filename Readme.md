@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7DF9FF&center=true&vCenter=true&width=700&height=100&lines=I'm+Kshitiz+Tyagi!">
   </a>
 </h1>
-<h3 align="center">A passionate Computer Science Grad from India</h3>
+<h3 align="center">A Passionate Computer Science Grad from India</h3>
 
 <img align="right" alt="Coding" width="350" height="270" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 
