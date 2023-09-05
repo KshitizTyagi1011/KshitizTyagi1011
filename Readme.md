@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=FF7722&center=true&vCenter=true&width=700&height=100&lines=I'm+Kshitiz+Tyagi!">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7DF9FF&center=true&vCenter=true&width=700&height=100&lines=I'm+Kshitiz+Tyagi!">
   </a>
 </h1>
 <h3 align="center">A passionate Computer Science Grad from India</h3>
