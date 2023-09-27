@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="350" height="270" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on Nivaas Website.<br>👯 I’m looking to collaborate on backend projects.<br>🤝 I’m looking for help with bug fixing and backend development.<br>🌱 I’m currently learning full stack in depth.<br>💬 Ask me about Web Development and Cyber Security.<br>⚡ Fun fact My reviews on Google Maps have accumulated a staggering 2.3L views.
+🔭 I’m currently working on MERN stack Projects.<br>👯 I’m looking to collaborate on Web-Dev projects.<br>🤝 I’m looking for help with bug fixing and backend development.<br>🌱 I’m currently learning MERN in depth.<br>💬 Ask me about Web Development and Cyber Security.<br>⚡ Fun fact My reviews on Google Maps have accumulated a staggering 2.3L views.
 
 
 ## 🌐 Socials:
